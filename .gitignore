@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pth
+
+# Data files (large CSVs)
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Optional: experiment result notebooks
+*result.ipynb
