@@ -8,8 +8,3 @@ __pycache__/
 # Data files (large CSVs)
 *.csv
 
-# Notebook checkpoints
-.ipynb_checkpoints/
-
-# Optional: experiment result notebooks
-*result.ipynb
